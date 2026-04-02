@@ -1,15 +1,42 @@
-cdn-vk.ru
+# VK Group, formerly known as Mail.ru Group, a Russian technology company
+
+bizmrg.com
+boosty.to
+donationalerts.com
+cdn-vk.ru @cdn
+cdn-vk.net @cdn
+cups.online
+cxhub.ru
+icq.com @communication
+imgsmail.ru
+hrtek.ru
+koddobra.ru
+mail.ru
+mediumquality.ru @entertainment
+memealerts.com
+movika.com
 mradx.net
+mrgcdn.ru @cdn
 mvk.com
-userapi.com
-vk-analytics.ru
+my.com
+mycdn.me @cdn
+mytopf.com
+odkl.ru
+ok.ru
+okcdn.ru @cdn
+smailru.net
+sportmail.ru @media
+staticmy.com
+tamtam.chat @communication
+tech-mail.ru
 vk-apps.com
 vk-apps.ru
-vk-cdn.me
-vk-cdn.net
-vkcloud-static.ru
+vk-cdn.me @cdn
+vk-cdn.net @cdn
 vk-portal.net
-vk.cc
+vk-records.ru
+vk-stadium.ru
+vk.cc @url-shortner
 vk.com
 vk.company
 vk.design
@@ -18,11 +45,16 @@ vk.me
 vk.ru
 vk.team
 vkcache.com
+vkcdnservice.com @cdn
+vkclips.app
+vkcloud-static.ru
+vkfest.ru
 vkgo.app
 vklive.app
 vkmessenger.app
 vkmessenger.com
 vkontakte.ru
+vktech-static.ru
 vkuser.net
 vkuseraudio.com
 vkuseraudio.net
@@ -33,4 +65,113 @@ vkuserphoto.ru
 vkuservideo.com
 vkuservideo.net
 vkuservideo.ru
-vkvideo.ru
+userapi.com
+
+# Ads and tracking
+apptracer.ru @ads
+vk-analytics.ru @ads
+vkanalytics.net @ads
+full:1l-hit.mail.ru @ads
+full:1l-hit.vkplay.ru @ads
+full:ad.mail.ru @ads
+full:ads.dahlmessenger.com @ads
+full:adsapp.dahlmessenger.com @ads
+full:adsapp.telega.info @ads
+full:stats.dahlmessenger.com @ads
+full:stats.telega.info @ads
+full:ads.vk.com @ads
+full:ads.vk.ru @ads
+full:log.dzen.ru @ads
+full:ms.dzen.ru @ads
+full:ms.vk.com @ads
+full:ms.vk.ru @ads
+full:r.mail.ru @ads
+full:radar.imgsmail.ru @ads
+full:rs.mail.ru @ads
+full:relap.mail.ru @ads
+full:r0.mail.ru @ads
+full:r0.mradx.net @ads
+full:stacks.vk-portal.net @ads
+full:stats.vk-portal.net @ads
+full:top-fwz1.mail.ru @ads
+full:top-staging.mail.ru @ads
+full:tracker-api.my.com @ads
+full:xray.mail.ru @ads
+
+# Dzen
+dzen.ru
+dzeninfra.ru
+
+# ESforce
+cybersport.ru @media
+epicevents.gg
+esforce.com
+esforce.ru
+ruhub.tv @entertainment
+
+# GeekBrains
+gb.ru @education
+
+# Messenger MAX
+max.ru @gov @communication
+oneme.ru @gov @communication
+sferum.ru @gov @communication @education
+
+# MY.GAMES
+# Formally sold and left Russian market, but still has obvious ties to Russia
+# (and thus VK) as prod-my.games is registered in Russia
+adsadvisor.io @ads @!ru
+knightspeak.com @games @!ru
+my.games @games @!ru
+pixonic.com @games @!ru
+prod-my.games @games
+
+# Skillbox
+skbx.pro
+skillbox.ru @education
+skillbox.pro @education
+
+# Skillfactory
+skillfactory.ru @education
+
+# Lerna
+lerna.ru @education
+
+# RuStore
+rustore.ru @appstore
+
+# Tarantool
+tarantool.io @dev
+
+# Telega, an alternative Telegram client
+# CAUTION: SUSPECTED SPYWARE
+# For details see: https://dontusetelega.lol/analysis
+aodahl.com
+dahl.su @communication
+dahlmessenger.com @communication
+telega.info @communication
+telega.me @communication
+
+# Tetrika
+tetrika-school.ru @education
+
+# Uchi.ru
+uchi.ru @education
+
+# Umschool
+umschool.net @education
+
+# VK Video
+vkvideo.ru @entertainment
+
+# VK Play
+vkplay.ru @games
+vkplay.live @entertainment
+vkplay-arena.ru @games
+
+# YCLIENTS
+yclients.com
+
+# Youla
+youla.io @ecommerce
+youla.ru @ecommerce

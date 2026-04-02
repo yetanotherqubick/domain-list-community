@@ -51,7 +51,6 @@ include:kaspersky
 include:lg
 include:logitech
 include:louisvuitton
-include:mailru-group
 include:meta
 include:microsoft
 include:mikrotik
@@ -89,6 +88,7 @@ include:uber
 include:ubiquiti
 include:verisign
 include:verizon
+include:vk
 include:vultr
 include:westerndigital
 include:wisekey

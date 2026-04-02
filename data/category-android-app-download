@@ -1,6 +1,7 @@
 include:apkcombo
 include:apkmirror
 include:apkpure
+include:vk @appstore
 
 # Uptodown
 uptodown.com

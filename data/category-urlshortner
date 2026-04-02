@@ -1,3 +1,4 @@
 include:bitly
 include:shorturl
 include:tinyurl
+include:vk @ulr-shortner

@@ -19,5 +19,8 @@ start.ru
 tvigle.ru
 viju.ru
 
-# Video hosting
+# Video hostings
 include:rutube
+
+# VK Group entertainment services (VK Video and others)
+include:vk @entertainment

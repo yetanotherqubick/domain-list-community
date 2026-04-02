@@ -11,7 +11,7 @@ include:category-retail-ru
 include:category-travel-ru
 
 # Well-known companies
-include:mailru-group
+include:vk
 include:yandex
 
 # Bank & Finance & Insurance & Securities
@@ -54,7 +54,5 @@ meteoinfo.ru   # Hydrometeorological Center of Russia
 ngenix.net     # NGENIX is a Russian provider of acceleration and security services for public web resources
 pochta.ru      # Russian post
 qms.ru         # Russian internet speed testing service
-rustore.ru     # RuStore is a Russian mobile app store for Android
 t1.cloud       # Russian cloud storage provider
 taxsee.com     # Taxi for business (self-employed drivers)
-yclients.com   # Russian SaaS platform for online booking and business automation for service companies
